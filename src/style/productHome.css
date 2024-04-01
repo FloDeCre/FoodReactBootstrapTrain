@@ -1,0 +1,22 @@
+th {
+    background-color: #f2f2f2;
+}
+
+.center-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.DateClass {
+    font-weight: bold;
+    font-style: italic;
+    font-variant: small-caps;
+    text-decoration: underline;
+}
+
+.TableFootClass {
+    font-weight: bold;
+}

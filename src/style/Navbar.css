@@ -1,0 +1,9 @@
+.NavClass {
+    background-color: rgb(123, 123, 179);
+    margin: auto;
+    padding: auto;
+}
+#ActionButton{
+    margin: 1em;
+    padding:1em;
+}
